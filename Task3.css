@@ -1,0 +1,7 @@
+/* CSS for paragraph */
+
+body p{
+    color:blue;
+    font-size:18px;
+    text-align:center;
+}
